@@ -1,2 +1,2 @@
 # CTasks
-C Task Solving ( the first semester of my second year at Uni )
+C Task Solving ( the 1st semester of my 2nd year at Uni )
