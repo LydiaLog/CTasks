@@ -1,0 +1,8 @@
+﻿  doublePointer.c
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어10주차\20215196\DoublePointerProject\doublePointer.c(20,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어10주차\20215196\DoublePointerProject\doublePointer.c(20,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어10주차\20215196\DoublePointerProject\doublePointer.c(21,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어10주차\20215196\DoublePointerProject\doublePointer.c(21,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int **' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어10주차\20215196\DoublePointerProject\doublePointer.c(22,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int ***'입니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어10주차\20215196\DoublePointerProject\doublePointer.c(22,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int ***' 형식의 인수 1과(와) 충돌합니다.
+  DoublePointerProject.vcxproj -> C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어10주차\20215196\x64\Debug\DoublePointerProject.exe

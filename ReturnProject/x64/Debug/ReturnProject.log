@@ -1,0 +1,3 @@
+﻿  return.c
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어10주차\20215196\ReturnProject\return.c(25): warning C4172: 지역 변수 또는 임시: rp의 주소를 반환하고 있습니다.
+  ReturnProject.vcxproj -> C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어10주차\20215196\x64\Debug\ReturnProject.exe
