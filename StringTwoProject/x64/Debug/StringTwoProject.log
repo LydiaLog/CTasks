@@ -1,0 +1,9 @@
+﻿  stringTwo.c
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어12주차\20215196\StringTwoProject\stringTwo.c(19,6): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어12주차\20215196\StringTwoProject\stringTwo.c(21,9): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xec'이(가) 있습니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어12주차\20215196\StringTwoProject\stringTwo.c(23,9): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xeb'이(가) 있습니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어12주차\20215196\StringTwoProject\stringTwo.c(33,13): warning C4013: 'islower'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어12주차\20215196\StringTwoProject\stringTwo.c(35,19): warning C4013: 'isupper'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어12주차\20215196\StringTwoProject\stringTwo.c(44,14): warning C4013: 'isspace'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어12주차\20215196\StringTwoProject\stringTwo.c(53,14): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  StringTwoProject.vcxproj -> C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어12주차\20215196\x64\Debug\StringTwoProject.exe
