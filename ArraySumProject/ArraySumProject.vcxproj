@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{9b2655a0-e34c-4f1a-88d8-a99727411c8a}</ProjectGuid>
+    <ProjectGuid>{5ea30323-e77c-44c2-9b2b-755cd45fc9b0}</ProjectGuid>
     <RootNamespace>ArraySumProject</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ArraySum.c" />
+    <ClCompile Include="arraySum.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
