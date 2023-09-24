@@ -1,0 +1,28 @@
+﻿  dataSize.c
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(15,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(15,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(16,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(16,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(17,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(17,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(18,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(18,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(19,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(19,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(20,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(20,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(21,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(21,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(22,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(22,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(23,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(23,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(24,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(24,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(25,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(25,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(26,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(26,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(27,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.2\dataSize.c(27,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  No.2.vcxproj -> C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\x64\Debug\No.2.exe

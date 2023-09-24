@@ -1,0 +1,6 @@
+﻿  overflow.c
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.3\overflow.c(10,25): warning C4305: '초기화 중': 'int'에서 'unsigned char'(으)로 잘립니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.3\overflow.c(12,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.3\overflow.c(13,1): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다.
+C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\No.3\overflow.c(13): warning C4756: 상수 산술 연산에서 오버플로가 발생했습니다.
+  No.3.vcxproj -> C:\Users\wonj0\OneDrive\바탕 화면\Cproject\C언어2주차\20215196\x64\Debug\No.3.exe
